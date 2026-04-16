@@ -12,7 +12,7 @@ const TRUST_ITEMS = [
     id: 'background-checked',
     Icon: SearchCheck,
     label: 'Background Checked',
-    desc: 'Police clearance and reference verification — completed before every booking.',
+    desc: 'Police clearance and reference verification. Completed before every booking.',
   },
   {
     id: 'happy-homes',

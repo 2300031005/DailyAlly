@@ -29,7 +29,7 @@ const STEPS = [
     Icon: Lock,
     number: 4,
     title: 'Pay Securely',
-    desc: 'Pay after the job — via card, UPI, or wallet. No cash needed.',
+    desc: 'Pay after the job via card, UPI, or wallet. No cash needed.',
   },
 ]
 
@@ -74,7 +74,7 @@ export default function HowItWorks() {
       <div className="container">
         <header className="how-it-works__header reveal">
           <div className="section-label">Simple Process</div>
-          <h2 className="section-heading">Booked, done, and paid — in 4 steps</h2>
+          <h2 className="section-heading">Booked, done, and paid in 4 steps</h2>
           <p className="how-it-works__subtext">
             No calls. No uncertainty. You always know who's coming and when.
           </p>

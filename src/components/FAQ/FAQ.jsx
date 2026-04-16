@@ -8,31 +8,31 @@ const FAQS = [
     id: 'safety',
     question: 'How do you keep my home safe?',
     answer:
-      'Every DailyAlly professional is verified through government ID, a police clearance certificate, and reference calls. You can see your helper\'s photo and ID number before they arrive — so you know exactly who to expect at the door.',
+      'Every DailyAlly professional is verified through government ID, a police clearance certificate, and reference calls. You can see your helper\'s photo and ID number before they arrive, so you know exactly who to expect at the door.',
   },
   {
     id: 'verification',
     question: 'What does "background checked" actually mean?',
     answer:
-      'It means ID verification, a police clearance check through our law enforcement partner, and reference calls. Helpers also need a minimum of 20 reviewed jobs before earning our Verified badge. It\'s not a tick-box — it\'s a real filter.',
+      'It means ID verification, a police clearance check through our law enforcement partner, and reference calls. Helpers also need a minimum of 20 reviewed jobs before earning our Verified badge. It\'s not a tick-box. It\'s a real filter.',
   },
   {
     id: 'pricing',
     question: 'Will I be charged extra after the job?',
     answer:
-      'No. You see the full price before confirming. If any extra material is needed mid-job, your helper will ask first. You pay only when the job is complete — and only if you\'re satisfied.',
+      'No. You see the full price before confirming. If any extra material is needed mid-job, your helper will ask first. You pay only when the job is complete, and only if you\'re satisfied.',
   },
   {
     id: 'cancel',
     question: 'Can I cancel or reschedule?',
     answer:
-      'Yes — free of charge up to 2 hours before your booking. If something comes up last-minute, a small ₹49 fee may apply, which is refunded if the helper cancels on you.',
+      'Yes. Cancel free of charge up to 2 hours before your booking. If something comes up last-minute, a small ₹49 fee may apply, which is refunded if the helper cancels on you.',
   },
   {
     id: 'quality',
     question: 'What if I\'m not happy with the work?',
     answer:
-      'Message us within 24 hours. We\'ll either send the helper back to redo it — no extra cost — or refund the affected payment. No arguments, no runaround.',
+      'Message us within 24 hours. We\'ll either send the helper back to redo it at no extra cost, or refund the affected payment. No arguments, no runaround.',
   },
   {
     id: 'timing',
@@ -92,7 +92,7 @@ export default function FAQ() {
             </h2>
             <p className="faq__sidebar-text">
               We know letting someone into your home is a big deal.
-              Here are honest answers — no marketing fluff.
+              Here are honest answers. No marketing fluff.
             </p>
 
             <div className="faq__contact" aria-label="Contact options">

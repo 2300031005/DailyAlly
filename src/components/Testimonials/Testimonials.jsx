@@ -65,7 +65,7 @@ export default function Testimonials() {
           <div className="section-label">Real Stories</div>
           <h2 className="section-heading">Neighbours who trust us, every day</h2>
           <p className="testimonials__subtext">
-            Honest words from real customers — not marketing copy.
+            Honest words from real customers, not marketing copy.
           </p>
         </header>
 

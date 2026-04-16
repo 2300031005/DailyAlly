@@ -34,16 +34,17 @@
 }
 
 .trust__icon-wrap {
-  width: 46px;                      /* slightly larger for consistency */
+  width: 46px;
   height: 46px;
   border-radius: var(--radius-md);
   display: flex;
   align-items: center;
   justify-content: center;
-  background: var(--primary-50);
+  background: var(--white);
   color: var(--primary-600);
   flex-shrink: 0;
-  border: 1px solid var(--primary-100);
+  border: 1px solid var(--neutral-200);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
 }
 
 .trust__label {

@@ -107,7 +107,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: var(--space-5);
+  gap: var(--space-4);
   margin-top: var(--space-8);
   flex-wrap: wrap;
 }
@@ -116,9 +116,10 @@
   display: flex;
   align-items: center;
   gap: var(--space-2);
-  font-size: var(--text-sm);
+  font-size: 0.8rem;
   color: rgba(255,255,255,0.72);
   font-weight: 500;
+  white-space: nowrap;
 }
 
 .cta-banner__reassurance-check {

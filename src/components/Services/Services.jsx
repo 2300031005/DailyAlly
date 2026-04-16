@@ -6,7 +6,7 @@ const SERVICES = [
     id: 'plumbing',
     Icon: Wrench,
     name: 'Plumbing',
-    desc: 'Leaks, clogs, pipe repairs, faucet installs — fixed right the first time.',
+    desc: 'Leaks, clogs, pipe repairs, faucet installs. Fixed right the first time.',
     price: 'From ₹299',
     trust: 'Licensed pros only',
   },
@@ -46,7 +46,7 @@ const SERVICES = [
     id: 'errands',
     Icon: Car,
     name: 'Errands & Delivery',
-    desc: 'Grocery runs, document drops, package pickups — handled locally.',
+    desc: 'Grocery runs, document drops, package pickups. Handled locally.',
     price: 'From ₹149',
     trust: 'Same-day available',
   },
@@ -93,7 +93,7 @@ export default function Services() {
           <div className="section-label">What We Fix</div>
           <h2 className="section-heading">Every job. Done right.</h2>
           <p className="services__subtext">
-            Our verified professionals handle it all — so you don't have to worry.
+            Our verified professionals handle it all, so you don't have to worry.
           </p>
         </header>
 
